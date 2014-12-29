@@ -6,7 +6,7 @@
 #  This file contains code to accompany the Kaggle tutorial
 #  "Deep learning goes to the movies".  The code in this file
 #  is for Part 1 of the tutorial on Natural Language Processing.
-#
+#   Bag of Wordsas
 # *************************************** #
 
 import os
